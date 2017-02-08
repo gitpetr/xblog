@@ -23,6 +23,7 @@ ru:
         title: 'Название'
         summary: 'Краткая статья'
         body: 'Содержание'
+        image: 'Фото'
         all_tags: 'Теги'
       category:
         name: 'Название'

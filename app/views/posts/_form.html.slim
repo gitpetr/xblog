@@ -9,7 +9,7 @@
             li= message
 
   	p= f.input :title
-  	p= f.input :body
+  	p= f.trix_editor :body, class: 'editor' 
     p= f.input :image
   	p
       = f.button :submit

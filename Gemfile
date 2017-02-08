@@ -56,3 +56,4 @@ gem 'slim-rails', '~> 3.1', '>= 3.1.1'
 gem 'simple_form'
 gem 'carrierwave'
 gem "mini_magick"
+gem 'trix', '~> 0.10.1'
